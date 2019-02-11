@@ -1,5 +1,9 @@
 # Visual Studio Research Note
 
+## 参照
+
+ - [デスクトップアプリケーション(Visual C) | Microsoft Docs](https://docs.microsoft.com/ja-jp/cpp/windows/desktop-applications-visual-cpp?view=vs-2017)
+ - [Get Started with Win32 and C++ - Windows applications | Microsoft Docs](https://docs.microsoft.com/ja-jp/windows/desktop/LearnWin32/learn-to-program-for-windows)
 ---------------------------------------------------------------------------------------------------
 
 ## 作成できるアプリケーション
